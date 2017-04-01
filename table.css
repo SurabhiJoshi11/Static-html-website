@@ -1,0 +1,15 @@
+table{
+    border: 2px solid black;
+    
+}
+
+td{
+    border: 2px solid black;
+    text-align: center;
+    color: black;
+    padding: 20px 20px;
+}
+
+td:hover{
+    background-color: cyan;
+}
